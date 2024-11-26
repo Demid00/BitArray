@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u0421\\VS_project\\1_lectors_tasks\\BitArrayProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u0421\\VS_project\\1_lectors_tasks\\BitArrayProject\\tests\\BitArrayTests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tests\\BitArrayTests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62284BA-B880-41A0-A89E-14147F49D118}|BitArray\\BitArray.vcxproj|E:\\\u0421\\VS_project\\1_lectors_tasks\\BitArrayProject\\BitArray\\BitArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F62284BA-B880-41A0-A89E-14147F49D118}|BitArray\\BitArray.vcxproj|solutionrelative:BitArray\\BitArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62284BA-B880-41A0-A89E-14147F49D118}|BitArray\\BitArray.vcxproj|E:\\\u0421\\VS_project\\1_lectors_tasks\\BitArrayProject\\BitArray\\BitArray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F62284BA-B880-41A0-A89E-14147F49D118}|BitArray\\BitArray.vcxproj|solutionrelative:BitArray\\BitArray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F62284BA-B880-41A0-A89E-14147F49D118}|BitArray\\BitArray.vcxproj|E:\\\u0421\\VS_project\\1_lectors_tasks\\BitArrayProject\\BitArray\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F62284BA-B880-41A0-A89E-14147F49D118}|BitArray\\BitArray.vcxproj|solutionrelative:BitArray\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BitArrayTests.cpp",
+              "DocumentMoniker": "E:\\\u0421\\VS_project\\1_lectors_tasks\\BitArrayProject\\tests\\BitArrayTests.cpp",
+              "RelativeDocumentMoniker": "tests\\BitArrayTests.cpp",
+              "ToolTip": "E:\\\u0421\\VS_project\\1_lectors_tasks\\BitArrayProject\\tests\\BitArrayTests.cpp",
+              "RelativeToolTip": "tests\\BitArrayTests.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-25T18:14:29.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\\u0421\\VS_project\\1_lectors_tasks\\BitArrayProject\\BitArray\\main.cpp",
+              "RelativeDocumentMoniker": "BitArray\\main.cpp",
+              "ToolTip": "E:\\\u0421\\VS_project\\1_lectors_tasks\\BitArrayProject\\BitArray\\main.cpp",
+              "RelativeToolTip": "BitArray\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-25T08:46:21.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BitArray.h",
+              "DocumentMoniker": "E:\\\u0421\\VS_project\\1_lectors_tasks\\BitArrayProject\\BitArray\\BitArray.h",
+              "RelativeDocumentMoniker": "BitArray\\BitArray.h",
+              "ToolTip": "E:\\\u0421\\VS_project\\1_lectors_tasks\\BitArrayProject\\BitArray\\BitArray.h",
+              "RelativeToolTip": "BitArray\\BitArray.h",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-25T07:05:09.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BitArray.cpp",
+              "DocumentMoniker": "E:\\\u0421\\VS_project\\1_lectors_tasks\\BitArrayProject\\BitArray\\BitArray.cpp",
+              "RelativeDocumentMoniker": "BitArray\\BitArray.cpp",
+              "ToolTip": "E:\\\u0421\\VS_project\\1_lectors_tasks\\BitArrayProject\\BitArray\\BitArray.cpp",
+              "RelativeToolTip": "BitArray\\BitArray.cpp",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-25T07:00:10.694Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

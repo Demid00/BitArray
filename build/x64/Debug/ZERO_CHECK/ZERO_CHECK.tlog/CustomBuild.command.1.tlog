@@ -1,0 +1,10 @@
+^E:\С\VS_PROJECT\1_LECTORS_TASKS\BITARRAYPROJECT\BUILD\CMAKEFILES\FF7AC9A6BB9EC028FDBA12F98E6D4A2F\GENERATE.STAMP.RULE
+setlocal
+E:\С\CMake\bin\cmake.exe -SE:/С/VS_project/1_lectors_tasks/BitArrayProject -BE:/С/VS_project/1_lectors_tasks/BitArrayProject/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/С/VS_project/1_lectors_tasks/BitArrayProject/build/BitArrayProject.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

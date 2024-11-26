@@ -1,0 +1,10 @@
+# CMake generation dependency list for this directory.
+E:/С/CMake/share/cmake-3.31/Modules/CheckCSourceCompiles.cmake
+E:/С/CMake/share/cmake-3.31/Modules/CheckIncludeFile.cmake
+E:/С/CMake/share/cmake-3.31/Modules/CheckLibraryExists.cmake
+E:/С/CMake/share/cmake-3.31/Modules/FindPackageHandleStandardArgs.cmake
+E:/С/CMake/share/cmake-3.31/Modules/FindPackageMessage.cmake
+E:/С/CMake/share/cmake-3.31/Modules/FindThreads.cmake
+E:/С/VS_project/1_lectors_tasks/BitArrayProject/googletest/googlemock/CMakeLists.txt
+E:/С/VS_project/1_lectors_tasks/BitArrayProject/googletest/googlemock/cmake/gmock.pc.in
+E:/С/VS_project/1_lectors_tasks/BitArrayProject/googletest/googlemock/cmake/gmock_main.pc.in

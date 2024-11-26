@@ -1,0 +1,19 @@
+Start testing: Nov 26 14:13 Новосибирское стандартное время
+----------------------------------------------------------
+Test not available without configuration.  (Missing "-C <config>"?)
+1/1 Testing: MyTests
+1/1 Test: MyTests
+Command: "NOT_AVAILABLE"
+Directory: E:/РЎ/VS_project/1_lectors_tasks/BitArrayProject/build/tests
+"MyTests" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"MyTests" end time: Nov 26 14:13 Новосибирское стандартное время
+"MyTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 26 14:13 Новосибирское стандартное время
