@@ -9,6 +9,7 @@
 - **Google Test** (включен в проект)
 
 ## Структура проекта
+
 BitArrayProject/ 
 ├── BitArray/ # Код основной библиотеки 
 │ ├── BitArray.cpp 
