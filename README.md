@@ -11,14 +11,14 @@
 ## Структура проекта
 
 BitArrayProject/ 
-├── BitArray/ # Код основной библиотеки 
-│ ├── BitArray.cpp 
-│ └── BitArray.h 
-├── tests/ # Тесты на основе Google Test 
-│ └── BitArrayTests.cpp 
-├── googletest/ # Встроенная библиотека Google Test 
-├── CMakeLists.txt # Главный файл сборки CMake 
-└── build/ # Директория для сборки (создается автоматически)
+├── BitArray/ # Код основной библиотеки \n
+│ ├── BitArray.cpp \n
+│ └── BitArray.h \n
+├── tests/ # Тесты на основе Google Test \n
+│ └── BitArrayTests.cpp \n
+├── googletest/ # Встроенная библиотека Google Test \n
+├── CMakeLists.txt # Главный файл сборки CMake \n
+└── build/ # Директория для сборки (создается автоматически) 
 
 ## Сборка и запуск
 ### 1. Сборка проекта
